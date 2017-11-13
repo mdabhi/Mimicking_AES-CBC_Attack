@@ -1,0 +1,557 @@
+
+-------------------------------AES CBC Attack--------------------------------
+# of bytes to be recovered:3
+# of sessions:3
+# of Plaintext bytes:16 bytes
+
+
+************************Solution bit(b)****************************
+
+
+List of 40 Guessed Instances:
+
+
+------------------------Session 1-----------------------------
+
+Recorded  IV:01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f 00 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 00 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 00 
+Ciphertext C:1f 7f c8 a7 07 e9 f8 5d c1 70 f1 e9 ba a4 a8 b4 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 01 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 01 
+Ciphertext C:f4 d8 6a 6a 81 3a b3 38 d1 a4 62 1c 01 45 d3 0f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 02 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 02 
+Ciphertext C:4f 46 38 64 2c 66 c7 7f 82 91 1b e4 c7 99 84 c2 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 03 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 03 
+Ciphertext C:93 a2 d1 d1 39 22 9f 4e cc b5 62 2a b1 87 9a 67 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 04 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 04 
+Ciphertext C:27 de aa 30 34 f6 7e 2e ce 8c 8f 70 84 32 e2 16 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 05 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 05 
+Ciphertext C:ae 75 45 b9 d3 ea 3b bf 17 ca f1 06 54 06 c1 d8 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 06 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 06 
+Ciphertext C:a1 29 49 54 c8 8e 50 6b 74 5b 78 f1 39 39 c7 06 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 07 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 07 
+Ciphertext C:22 43 b6 28 43 c9 be 7c a1 b1 64 49 bb 0b d1 04 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 08 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 08 
+Ciphertext C:4b 98 72 7c 3b c7 0d 3c ee b7 cc c4 62 fc 4c dd 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 09 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 09 
+Ciphertext C:b9 28 f8 44 b6 2d fa 69 9c cf b1 93 1b 4f 41 9b 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0a 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 0a 
+Ciphertext C:14 ff 11 31 69 22 bc 9e 1a 16 30 c3 06 85 c6 85 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0b 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 0b 
+Ciphertext C:65 36 eb ce f3 68 66 ae 96 7f d4 e2 34 a7 90 6d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0c 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 0c 
+Ciphertext C:ab 49 83 c8 70 54 d4 82 32 80 d9 b0 db 6c 39 9d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0d 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 0d 
+Ciphertext C:f2 d4 5d 41 f2 ca 71 03 93 62 8b ec 6a 88 00 22 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0e 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 0e 
+Ciphertext C:65 c3 65 64 8f 0d 46 8b 3a 40 ed 9c 3c 44 3c 55 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0f 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 0f 
+Ciphertext C:ce d1 5f c8 10 f9 58 85 7e 8d c7 52 38 8e a5 c2 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 10 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 10 
+Ciphertext C:05 e0 fb 66 a7 b6 ce 67 9e 2c 66 66 32 9a 57 3b 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 11 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 11 
+Ciphertext C:7a fc b0 e3 22 15 b1 67 8e 7f 2b c0 28 ea 56 ac 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 12 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 12 
+Ciphertext C:75 4e 88 53 5c 03 6a c9 ef 4e 2a 70 7b 1b 63 76 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 13 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 13 
+Ciphertext C:b8 79 84 b7 f6 32 34 df de 5c 09 53 cf cd 4f f9 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 14 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 14 
+Ciphertext C:4f b9 93 9d 87 96 b8 1a 3a 78 a9 6f 77 28 94 a9 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 15 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 15 
+Ciphertext C:49 37 13 27 1e ff ba 16 1c c9 7a d9 c8 3e 34 63 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 16 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 16 
+Ciphertext C:94 62 70 7d 86 ab c1 47 b9 90 b1 49 3f cb bb 4e 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 17 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 17 
+Ciphertext C:21 25 56 a0 49 23 62 b6 0b 8f 45 9f a0 15 a9 c9 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 18 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 18 
+Ciphertext C:fd 5a 72 c6 77 32 d9 23 a4 cc bb 94 19 4a ab 61 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 19 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 19 
+Ciphertext C:88 fb 82 13 ec be 6d 9c be e0 f6 da 2f 73 03 f0 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1a 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 1a 
+Ciphertext C:de bc bf f2 46 11 2e 65 ad 01 af 4b 68 95 4b 2d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1b 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 1b 
+Ciphertext C:59 ea 53 b3 1f 76 b5 8c ea 1a d2 8a 14 cc a6 c9 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1c 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 1c 
+Ciphertext C:32 b2 e1 1f 39 b6 d3 97 37 2f e0 4e dd 46 87 26 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1d 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 1d 
+Ciphertext C:96 af c9 5f b1 89 f5 16 67 bc bd ff 63 51 f1 e1 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1e 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 1e 
+Ciphertext C:e5 41 56 01 1a 9b 8f 1c 28 15 f8 ee 1a fd 65 1e 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1f 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 1f 
+Ciphertext C:16 21 30 cd c8 97 f3 eb df 06 c2 c8 ce 4c 4e c8 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 20 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 20 
+Ciphertext C:7a 06 be 12 d3 6b 26 5b 26 53 37 c7 02 4e f5 c6 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 21 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 21 
+Ciphertext C:7c 95 31 f2 a7 d0 b8 66 fb b0 5e 66 db 5d f0 11 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 22 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 22 
+Ciphertext C:30 0f ef ea b9 a1 52 d9 52 23 ec 81 04 36 05 8c 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 23 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 23 
+Ciphertext C:56 28 82 22 52 1e 20 de 8a 33 ce d3 0d 29 ed 4c 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 24 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 24 
+Ciphertext C:e4 98 4b 5a 33 83 39 82 1e b8 02 3e 8d 02 42 63 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 25 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 25 
+Ciphertext C:01 74 be 40 8e ac 8d 6f 29 c8 a3 92 c8 02 72 90 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 26 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 26 
+Ciphertext C:dd 2a a9 ee fe 42 cc 14 4f f8 26 b5 b6 ee 69 0f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 27 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 27 
+Ciphertext C:c2 55 6d a8 0f d4 3c 1e 93 b1 bc 38 f1 b2 1a c0 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 28 
+XORED Plaintext P':02 4f a9 00 34 0f d4 38 90 aa d6 cc 39 0e 0f 28 
+Ciphertext C:58 ab 36 a6 27 82 14 08 38 94 40 cf ec 90 d2 b0 
+Recorded  IV:01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f 00 
+Recorded Ciphertext:5f 7b fd ef de 9d 2e ab 7d 18 8d b5 59 c8 60 ac 
+ No Match found:
+ Attempts made = 16777216 
+
+
+
+
+************************Solution bit(b)****************************
+
+
+List of 40 Guessed Instances:
+
+
+--------------------------Session 2---------------------------
+
+Recorded  IV:a1 02 33 04 f5 5d 07 08 09 aa 0b 88 dd 0e 99 90 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 00 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 90 
+Ciphertext C:de 3f fb f9 4a 7f 39 34 50 30 5e 3e 94 16 6a ed 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 01 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 91 
+Ciphertext C:33 94 46 40 c6 98 51 3c 64 49 2c 71 79 b3 8a f5 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 02 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 92 
+Ciphertext C:0a d1 60 3e 40 8b 20 5d 32 53 9d ea 22 a7 23 03 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 03 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 93 
+Ciphertext C:f0 b1 07 64 f7 9e 7d f0 35 f1 66 6d b4 cd eb b0 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 04 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 94 
+Ciphertext C:e1 f2 fb 18 6c 10 c1 35 bb df a3 6d e8 27 e2 df 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 05 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 95 
+Ciphertext C:6e 05 0e 56 83 35 cd 46 00 50 e9 a3 78 ca f2 1b 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 06 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 96 
+Ciphertext C:94 1a 3f 03 8b 0a 93 75 ab 19 44 5c 6a 30 11 09 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 07 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 97 
+Ciphertext C:a5 aa 88 84 af 03 df a2 f4 9e 3f ee 35 4e a7 4d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 08 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 98 
+Ciphertext C:45 b3 a5 ce a8 c2 82 88 4a c8 fb 41 a0 e0 fe 24 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 09 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 99 
+Ciphertext C:f2 37 c0 de 10 43 d1 8a 97 5b 05 68 d5 c8 b5 e6 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0a 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 9a 
+Ciphertext C:ae 2e 21 d6 df 97 b2 93 a6 b4 1a 99 49 d9 d4 18 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0b 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 9b 
+Ciphertext C:e1 f2 ef a2 07 d3 5f af 74 18 58 7f d7 95 07 8f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0c 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 9c 
+Ciphertext C:d9 04 d6 30 84 f4 e7 23 11 4f 9b 72 e8 65 81 e7 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0d 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 9d 
+Ciphertext C:07 b8 fa ba 1c ee 2c dd 35 ab cc 53 55 fa 1b 8d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0e 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 9e 
+Ciphertext C:d2 50 b2 3c 92 fd 24 9f 8c 4b 2d f6 61 cc ef 60 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0f 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 9f 
+Ciphertext C:8b 0d 00 c2 ae 14 55 8d b6 c5 63 63 2d bf ba 01 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 10 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 80 
+Ciphertext C:ce ff a4 be 87 11 cb 78 27 70 4e ef 7b dc be c2 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 11 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 81 
+Ciphertext C:73 6a 45 cb 55 d4 a5 ab cc ab 4f 60 87 22 c8 ec 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 12 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 82 
+Ciphertext C:1b e8 f3 78 1f 5f 3b 9d c7 c1 a2 e7 7b 22 66 9f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 13 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 83 
+Ciphertext C:c4 48 16 6f 3d fd 30 f8 a1 0e 7f 06 dc 0d 70 b4 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 14 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 84 
+Ciphertext C:90 99 d7 8b 48 38 a9 7e 77 ec 32 85 0f fa 61 45 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 15 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 85 
+Ciphertext C:ba d4 d7 88 90 e0 08 bd 1b 1d 15 5c 86 50 f6 45 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 16 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 86 
+Ciphertext C:dc 30 b4 8a f6 26 e3 99 2a 18 78 eb b4 cd 03 14 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 17 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 87 
+Ciphertext C:7c 9a 7e 78 fd 75 58 6f d1 4f 6d 41 83 5a ea 4b 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 18 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 88 
+Ciphertext C:9a 32 83 b5 54 fd b8 4a 5b 46 61 b6 a7 32 1e d7 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 19 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 89 
+Ciphertext C:c9 88 a4 38 1e 46 55 32 61 3b 8e b6 cf 21 c4 de 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1a 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 8a 
+Ciphertext C:b0 be 07 1a 4f fc d0 54 1d 8c b2 12 e5 c5 cf 3c 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1b 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 8b 
+Ciphertext C:e7 e7 b1 07 5a 39 1e 8a 1c e1 54 49 b7 38 c9 08 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1c 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 8c 
+Ciphertext C:ff 3f 89 5e cb 17 6f 49 9f 9f a8 33 15 5a a6 56 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1d 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 8d 
+Ciphertext C:e1 fb d6 bc 53 9b ac 11 39 33 b3 f7 29 e8 46 72 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1e 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 8e 
+Ciphertext C:0a 40 39 48 21 37 d7 db c6 90 75 1b c9 e3 71 90 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1f 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 8f 
+Ciphertext C:5a 04 c3 ff 7f e4 41 1b b9 d0 0a e8 62 05 fb aa 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 20 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b0 
+Ciphertext C:3d af 1f 40 52 83 c1 46 18 ed 40 27 43 cc 4d 5d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 21 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b1 
+Ciphertext C:0c 4a 7e c1 ff b2 1c 1c 83 dd a3 9c 9f db 3b 4f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 22 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b2 
+Ciphertext C:78 bd e7 51 ba 32 cd 16 5b 98 73 fc a8 bb 8e ba 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 23 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b3 
+Ciphertext C:4a ea 94 42 0c 8d 5b 57 b7 70 da 6d 05 21 c9 06 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 24 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b4 
+Ciphertext C:0f 77 27 74 5e 8a 75 e2 ff 3a b1 df b9 d2 b8 a9 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 25 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b5 
+Ciphertext C:3c 8e 1e 80 dd 58 18 28 e5 ce 2a 9f 62 3f e4 1e 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 26 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b6 
+Ciphertext C:73 f2 30 59 b2 d8 de 67 70 e2 c3 ab 99 8b 1f cd 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 27 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b7 
+Ciphertext C:be e5 20 ee 14 f9 29 38 eb 18 40 8e 1e 56 7f f9 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 28 
+XORED Plaintext P':a2 4f 99 00 c4 54 d4 38 90 0a d6 48 e9 0e 99 b8 
+Ciphertext C:50 29 2f 5c 49 09 6c af 2b 64 56 4c 7a af dc dc 
+
+Matched Plaintext found for IV and Ciphertext pair:
+
+Known Bytes:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 
+Recovered Bytes:90 0a ff 
+
+Recorded IV:a1 02 33 04 f5 5d 07 08 09 aa 0b 88 dd 0e 99 90 
+Recorded Ciphertext:2d 8f e6 c6 8e e8 82 79 87 8f 23 0a 07 f4 03 9b 
+ Attempts made = 9439999 
+
+
+
+
+************************Solution bit(b)****************************
+
+
+List of 40 Guessed Instances:
+
+
+--------------------------Session 3---------------------------
+
+Recorded  IV:11 a2 bb a4 5f 55 07 08 09 aa 0b 88 0d 00 a9 fd 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 00 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 fd 
+Ciphertext C:d1 20 89 a0 83 0c 1d 14 36 8d 83 b1 3a 36 10 f2 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 01 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 fc 
+Ciphertext C:09 fc 6e ae f2 39 85 77 3f b5 6f 27 c8 36 3c 6b 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 02 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 ff 
+Ciphertext C:2d 17 4d 67 8f ea 47 17 8a a4 62 f6 94 34 2a 2c 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 03 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 fe 
+Ciphertext C:42 92 26 d3 2b 40 7e 48 93 80 ab c2 d2 61 8c c3 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 04 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f9 
+Ciphertext C:3c 58 8e b1 1c f6 ed ea b1 df 7f 3a 5c 53 6e 96 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 05 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f8 
+Ciphertext C:4f ae 5e 44 6a 5f 83 a9 b3 cb 1b 8d c1 1b 7e e0 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 06 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 fb 
+Ciphertext C:69 93 ef fd d1 e8 e1 d9 f2 c9 33 f4 eb f6 0b 47 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 07 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 fa 
+Ciphertext C:f7 23 62 e7 ea fb d9 bf 91 10 1b df 32 ce b4 33 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 08 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f5 
+Ciphertext C:e6 73 21 46 41 a7 b3 89 34 9c 63 20 f0 83 f0 31 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 09 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f4 
+Ciphertext C:e4 78 4d e5 d3 02 79 14 4b 6c 2c 5d 56 5b d7 bc 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0a 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f7 
+Ciphertext C:b5 e4 ca a1 83 32 ff 02 75 7a ed bf 7f 20 1c 52 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0b 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f6 
+Ciphertext C:8a d2 d3 f0 7c ac d6 b7 05 23 93 d2 c7 0a bc 92 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0c 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f1 
+Ciphertext C:60 03 b3 77 b5 8b de 79 9a 99 59 ff c9 11 c6 e7 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0d 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f0 
+Ciphertext C:c2 c9 74 64 72 f8 65 ff f0 af 5c f2 42 c0 f3 8e 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0e 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f3 
+Ciphertext C:19 3b e2 41 79 ed 78 49 4c d5 3c 2a 56 d4 e3 44 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 0f 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 f2 
+Ciphertext C:2c 6a 86 89 4f 51 ce 6b 99 38 4d 41 10 e2 68 ee 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 10 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 ed 
+Ciphertext C:76 16 11 98 18 e1 1f c8 8f 23 9e 7e 3e 13 39 95 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 11 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 ec 
+Ciphertext C:0e 57 4a e0 5a e9 0d d3 3e 39 07 26 0a cb a0 ee 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 12 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 ef 
+Ciphertext C:b4 08 f7 75 ce cc 77 f3 d8 3a 7f 82 5f 98 7d 55 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 13 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 ee 
+Ciphertext C:ca 94 ff 6c f5 a6 2e e4 01 41 ef 4a 98 ba 84 e5 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 14 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e9 
+Ciphertext C:c4 64 c6 db 98 8a e7 45 5e 47 93 a7 53 be c8 14 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 15 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e8 
+Ciphertext C:32 94 ec 39 4d 72 76 fb 3c 14 9a 16 31 2c 30 68 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 16 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 eb 
+Ciphertext C:75 13 e9 ba 3c 00 38 df 09 c7 69 95 0d 70 77 6c 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 17 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 ea 
+Ciphertext C:c9 25 45 fa 11 58 8c c0 01 79 17 0d 78 a3 f1 29 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 18 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e5 
+Ciphertext C:b9 70 28 e8 c3 b5 aa c3 ca ba 18 73 2a a4 05 6f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 19 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e4 
+Ciphertext C:20 9b a0 85 1c cb 02 6f 4c 71 fb b8 de 41 d3 ce 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1a 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e7 
+Ciphertext C:78 9c 60 d7 d7 fe eb 25 64 fd c1 dc 9e 42 92 32 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1b 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e6 
+Ciphertext C:d5 b6 be ff 5d d8 a9 99 4e 16 24 67 e8 8c b2 71 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1c 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e1 
+Ciphertext C:dc 8f b2 5e d4 2c 3a 15 6d 52 6c 1c 51 12 c6 ce 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1d 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e0 
+Ciphertext C:cd 75 ee d0 a0 08 aa 08 8e ef c7 a2 5b 1f c5 93 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1e 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e3 
+Ciphertext C:2f 94 0c b9 09 bc fe 2c 15 8e c6 89 76 dc 0f 2d 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 1f 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 e2 
+Ciphertext C:2b 4a 3e 7d f6 57 1c 8b 3e ae d8 58 db 32 6d 5e 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 20 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 dd 
+Ciphertext C:52 8f 52 ad 49 f4 75 63 ac 26 2d c0 04 0b c5 3f 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 21 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 dc 
+Ciphertext C:94 70 7c a0 50 fe 75 bb 8a a5 ac 65 04 30 35 ed 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 22 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 df 
+Ciphertext C:85 05 93 a6 db a6 98 2f 0d b1 fe 1f 82 1a 71 ee 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 23 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 de 
+Ciphertext C:25 d2 f1 70 27 7b 70 9c 75 35 5b 36 8c 09 f8 89 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 24 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 d9 
+Ciphertext C:44 56 57 34 58 a9 ab 08 52 54 fe 24 9f 05 0d 8c 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 25 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 d8 
+Ciphertext C:80 92 59 a0 a7 dd 11 92 1f b0 b2 d3 26 0d 86 fe 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 26 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 db 
+Ciphertext C:80 46 34 9e c2 74 4a d7 70 f4 e6 7d 2e 9a 2d 83 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 27 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 da 
+Ciphertext C:ae da cb 75 9f b3 1d 10 24 4c c0 cf b1 81 b0 f7 
+
+Plaintext P:03 4d aa 04 31 09 d3 30 99 a0 dd c0 34 00 00 28 
+XORED Plaintext P':12 ef 11 a0 6e 5c d4 38 90 0a d6 48 39 00 a9 d5 
+Ciphertext C:84 04 b5 ee 37 e3 66 2d 7b f7 36 ab 8c 87 d1 b4 
+Recorded  IV:11 a2 bb a4 5f 55 07 08 09 aa 0b 88 0d 00 a9 fd 
+Recorded Ciphertext:33 dd 0a 14 31 09 d3 30 99 a0 d0 c0 aa f9 0a ff 
+ No Match found:
+ Attempts made = 16777216 
+
+
+ OS: Windows7
+ System Type: 64-bit OS
+ Processor: Intel(R) Core(TM) i5 CPU, 2.40 GHz Speed
+
