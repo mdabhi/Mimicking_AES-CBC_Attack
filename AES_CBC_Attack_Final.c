@@ -1,4 +1,4 @@
-/*  This code is prepared by Minita Dabhi to mimic subspace attack on AES CBC mode in SSL/TLS.
+/*  This code is prepared by Minita Dabhi and Sri Harshaja Rambhatala to mimic subspace attack on AES CBC mode in SSL/TLS.
 Project specific : Plaintext has only 1 block which makes AES CBC mode with only 1 block instead of taking
 multiple blocks.
 Input for both plaintext and key are 16 bytes, which can be represented by decimal numbers.
